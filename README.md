@@ -1,1 +1,1 @@
-# eth-anomaly-detection
+# eth-ad-autoencoder-xgboost
